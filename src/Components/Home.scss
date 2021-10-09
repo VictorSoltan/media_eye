@@ -1,0 +1,137 @@
+@font-face {
+    font-family: Furore;
+    src: url("./Furore.otf") format("opentype");
+}
+.home{
+    padding: 3% 2% 3% 2%;
+    margin: 0 auto;
+    background: linear-gradient(0deg, rgba(227,233,255,1) 0%, rgba(211,210,255,1) 50%, rgba(227,233,255,1) 100%);
+    background-repeat: repeat;
+    .own_nft_n_examples{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .ur_own_ntf{
+            display: flex;
+            width: 70%;
+            height: 386px;
+            align-items: center;
+            justify-content: space-between;
+            border-radius: 20px;
+            background-position: center;
+            background-repeat: no-repeat; 
+            background-size: cover; 
+            color: white;
+            button{
+                background: url('../Assets/home/create_nft.svg') no-repeat center;
+                background-size: contain;
+                width: 200px;
+                margin-left: 4%;
+                font-size: 17px;
+                height: 50px;
+                border: none;
+                color: white;
+            }
+            h1{
+                padding-left: 10%;
+                font-family: Furore;
+                font-size: 50px;
+                width: 140%;
+            }
+        }
+        .nft_example{
+            flex-direction: column;
+            justify-content: center;
+            height: 386px;
+            width: 28%;
+            border-radius: 14px;
+            background-position: center;
+            background-repeat: no-repeat; 
+            background-size: cover;    
+            color: white; 
+            span{
+                position: relative;
+                top: 10%;
+                margin-left: 10%;
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 36px;
+            }
+            div{
+                display: flex;
+                justify-content: center;
+                position: relative;
+                top: 79%;
+                button{
+                    width: 23%;
+                    height: 4px;
+                    background-color: white;
+                    border: none;
+                    margin: 10px;
+                    cursor: pointer;
+                }
+            }     
+        }
+    }
+    .nft_demo{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 2%;
+        div{
+            background-position: center;
+            background-repeat: no-repeat; 
+            background-size: cover;    
+            border-radius: 14px;   
+            width: 18%;
+            height: 210px;  
+            border: 0.2px solid #7d9cd2;  
+            span{
+                position: relative;
+                top: 6%;
+                left: 6%;
+                color: white;
+                font-weight: 600;
+            }
+        }
+    }
+    .top_collections{
+        .div_shape{
+            // display: flex;
+            // height: 400px;
+            // width: 510px;
+            // background-position: center;
+            // background-repeat: no-repeat; 
+            // background-size: 300px 200px;   
+            // padding: 4%; 
+            // overflow: visible;
+            .nft_shape{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                height: 210px;
+                width: 71%;
+                background-position: center;
+                background-repeat: no-repeat; 
+                background-size: cover;   
+                padding: 4%; 
+                .nft{
+                    display: flex;
+                    // align-items: center;
+                    // align-content: center;
+                    // height: 280px;
+                    // width: 70%;                    
+                    background-position: center;
+                    background-repeat: no-repeat; 
+                    background-size: cover;  
+                    // padding-top: 2%;  
+                }
+                img{
+                    width: 94%;
+                    height: 90%;
+                    margin: 0 auto;
+                    padding: 4%;
+                }
+            }         
+        }
+    }
+}

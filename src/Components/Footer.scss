@@ -1,0 +1,35 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    background: #E7EFFF;
+    height: 124px;
+    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.25);
+    padding: 5% 10% 3% 10%;
+    z-index: 9999;
+    .logo{
+        img{
+            width: 140px;
+        }
+    }
+    .links{
+        display: flex;
+        width: 36%;
+        margin-right: 10%;
+        justify-content: space-between;
+
+        div{
+            display: flex;
+            flex-direction: column;
+        }
+    }
+    .social_media{
+        height: auto;
+        display: flex;
+        width: 30%;
+        justify-content: space-between;
+        img{
+            height: 35px;
+            width: 35px;
+        }
+    }
+}
