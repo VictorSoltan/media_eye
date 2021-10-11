@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/media_eye/static/css/main.4a591306.chunk.css",
-    "main.js": "/media_eye/static/js/main.6db042c4.chunk.js",
-    "main.js.map": "/media_eye/static/js/main.6db042c4.chunk.js.map",
+    "main.css": "/media_eye/static/css/main.93ed0b3a.chunk.css",
+    "main.js": "/media_eye/static/js/main.518aa22e.chunk.js",
+    "main.js.map": "/media_eye/static/js/main.518aa22e.chunk.js.map",
     "runtime-main.js": "/media_eye/static/js/runtime-main.be1e335e.js",
     "runtime-main.js.map": "/media_eye/static/js/runtime-main.be1e335e.js.map",
     "static/css/2.b48dccbe.chunk.css": "/media_eye/static/css/2.b48dccbe.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.5fc8dcfa.chunk.js.map": "/media_eye/static/js/3.5fc8dcfa.chunk.js.map",
     "index.html": "/media_eye/index.html",
     "static/css/2.b48dccbe.chunk.css.map": "/media_eye/static/css/2.b48dccbe.chunk.css.map",
-    "static/css/main.4a591306.chunk.css.map": "/media_eye/static/css/main.4a591306.chunk.css.map",
+    "static/css/main.93ed0b3a.chunk.css.map": "/media_eye/static/css/main.93ed0b3a.chunk.css.map",
     "static/js/2.e23831dc.chunk.js.LICENSE.txt": "/media_eye/static/js/2.e23831dc.chunk.js.LICENSE.txt",
     "static/media/04china04.5ae3f29f.png": "/media_eye/static/media/04china04.5ae3f29f.png",
     "static/media/053.91144388.png": "/media_eye/static/media/053.91144388.png",
@@ -28,10 +28,11 @@
     "static/media/c501c162725691 4.15a2fafb.png": "/media_eye/static/media/c501c162725691 4.15a2fafb.png",
     "static/media/calendar.ac5a6ba7.svg": "/media_eye/static/media/calendar.ac5a6ba7.svg",
     "static/media/Filter.scss": "/media_eye/static/media/filter_active.8572498b.svg",
-    "static/media/Header.scss": "/media_eye/static/media/nft_button.8fa9291b.png",
+    "static/media/create_nft_button.26ff7528.svg": "/media_eye/static/media/create_nft_button.26ff7528.svg",
     "static/media/event.85124ec8.png": "/media_eye/static/media/event.85124ec8.png",
     "static/media/EventBlock.scss": "/media_eye/static/media/event_button.6b0fec0d.svg",
     "static/media/filter_tool.fb9bfc84.svg": "/media_eye/static/media/filter_tool.fb9bfc84.svg",
+    "static/media/fire.7a637b42.svg": "/media_eye/static/media/fire.7a637b42.svg",
     "static/media/github.374e1b59.svg": "/media_eye/static/media/github.374e1b59.svg",
     "static/media/heart.8b8a3e5d.svg": "/media_eye/static/media/heart.8b8a3e5d.svg",
     "static/media/image_203.4aea25c5.png": "/media_eye/static/media/image_203.4aea25c5.png",
@@ -51,6 +52,7 @@
     "static/media/nft5.39b1a864.png": "/media_eye/static/media/nft5.39b1a864.png",
     "static/media/nft6.b47f6e28.png": "/media_eye/static/media/nft6.b47f6e28.png",
     "static/media/nft7.db833444.png": "/media_eye/static/media/nft7.db833444.png",
+    "static/media/Header.scss": "/media_eye/static/media/nft_button.8fa9291b.png",
     "static/media/profile_pic.c7b45897.svg": "/media_eye/static/media/profile_pic.c7b45897.svg",
     "static/media/SellerBlock.scss": "/media_eye/static/media/seller_shape.fe5b59eb.svg",
     "static/media/slick-theme.css": "/media_eye/static/media/slick.c94f7671.ttf",
@@ -65,7 +67,7 @@
     "static/js/runtime-main.be1e335e.js",
     "static/css/2.b48dccbe.chunk.css",
     "static/js/2.e23831dc.chunk.js",
-    "static/css/main.4a591306.chunk.css",
-    "static/js/main.6db042c4.chunk.js"
+    "static/css/main.93ed0b3a.chunk.css",
+    "static/js/main.518aa22e.chunk.js"
   ]
 }
